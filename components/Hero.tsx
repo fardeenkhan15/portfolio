@@ -25,6 +25,9 @@ const Hero = () => {
                     className='text-center text-[40px] md:text-5xl lg:text-6xl'
                     words='Transforming Concepts into Seamless Experiences'
                     />
+                    <p className='text-center'>
+                        Hi, I&aposm Fardeen
+                    </p>
                 </div>
             </div>
         </div>
